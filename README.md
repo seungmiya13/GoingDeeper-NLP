@@ -1,6 +1,6 @@
-# GoingDeeper-NLP
+# GoingDeeper-NLP 
 
-| # | title | link |
+| # | title |  |
 |:---:|:---:|:---:|
 | 1 | 텍스트 데이터 다루기 |  |
 | 2 | 멋진 단어사전 만들기 |  |
