@@ -10,4 +10,5 @@ labels_nsp.memmap
 segments.memmap
 
 bert_pre_train.json
+bert_pre_train.hdf5
 
