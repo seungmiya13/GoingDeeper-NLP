@@ -10,4 +10,8 @@ labels_nsp.memmap
 segments.memmap
 
 bert_pre_train.json
+<<<<<<< HEAD
+=======
+bert_pre_train.hdf5
+>>>>>>> 9e9598cbe753513b7cb63213d78d948f23e74d5e
 
