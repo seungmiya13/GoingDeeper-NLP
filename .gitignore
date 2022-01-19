@@ -3,3 +3,11 @@
 ko.bin
 
 Mecab-ko-for-Google-Colab
+
+enc_tokens.memmap
+labels_mlm.memmap
+labels_nsp.memmap
+segments.memmap
+
+bert_pre_train.json
+
